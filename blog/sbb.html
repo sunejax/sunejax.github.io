@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog - Self Balancing Bot</title>
+    <link href="css/style.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,800" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" type="text/css" rel="stylesheet">
+    <link href="../css/bootstrap-theme.css" type="text/css" rel="stylesheet">
+
+</head>
+<body style="background:#fffff1">
+
+<div style="font-family: Raleway; font-weight: 800;display:flex;justify-content:center;align-items:center;font-size:65px;margin-top: 5%">
+    Self Balancing Bot
+</div>
+
+<div style="font-family: Raleway;font-size:20px;margin-top: 3%;margin-left: 5%;margin-right:5%">
+    A self-balancing robot works on the principle of an inverse pendulum.
+    By using the motion data from the Digital Motion Processor(DMP) of MPU-6050 which performs the
+    accelerometer-gyroscope sensor fusion, the controller (arduino) gives instructions to the stepper motors
+    so as to reduce instantaneous real-vertical tilt which renders the bot erect.
+    A virtual tilt is introduced in the system-vertical so as to use the balancing action of  the bot to maneuver it forwards and backwards.
+    A speed offset is provided in one of the motors to rotate the bot.
+    <br>
+    <img style="max-width: 45%;margin-top: 1%" src="img/pasted image 0.png"/>
+</div>
+
+
+
+<script src="../vendor/jquery/jquery.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
