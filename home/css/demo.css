@@ -18,8 +18,8 @@ body {
 	--background-color: #363dc2;
 	--background-color-2: #282faf;
 	--background-color-3: #202692;
-	--link-color: #03b9f1;
-	--link-hover-color: #fff;
+	--link-color: #fff;
+	--link-hover-color: #03b9f1;
 	font-family: 'Roboto Mono', monospace;
 	font-weight: 500;
 	color: #fff;
