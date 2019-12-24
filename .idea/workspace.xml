@@ -21,6 +21,7 @@
   <component name="ProjectId" id="1VQ6TkgwGzSFWI0YNjyfx5a2Tfz" />
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -49,5 +50,11 @@
       <workItem from="1577172992341" duration="3000" />
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1577173085506">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-221.-1200.1920.1200@-221.-1200.1920.1200" timestamp="1577173085506" />
   </component>
 </project>
